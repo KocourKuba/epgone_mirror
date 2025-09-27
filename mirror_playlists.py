@@ -1,3 +1,5 @@
+# thanks for ideas Lorax121 https://github.com/Lorax121/epg_v2
+
 import os
 import re
 import signal
