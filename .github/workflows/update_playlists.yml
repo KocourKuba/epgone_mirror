@@ -1,0 +1,58 @@
+name: Mirroring Playlists
+
+on:
+  
+  workflow_dispatch:
+
+  schedule:
+    
+    - cron: '0 0 */3 * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: python -m pip install requests
+
+      - name: Determine update mode
+        id: mode
+        run: |
+          if [[ "${{ github.event_name }}" == "schedule" && "$(date -u +'%H:%M %d')" == "01:00 01" ]]; then
+            echo "commit_message=Auto update (3 day): $(date -u +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          elif [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ github.event.inputs.update_type }}" == "manual" ]]; then
+            echo "commit_message=Manual update: $(date -u +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run playlist processing script
+        
+        run: python mirror_playlists.py
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if [[ -n $(git ls-files --other --exclude-standard --directory) && `git diff --quiet --exit-code playlists/ img/ img2/` ]]; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git add playlists/ img/ img2/
+          git commit -m "Automated playlist and icons update"
+          git push
