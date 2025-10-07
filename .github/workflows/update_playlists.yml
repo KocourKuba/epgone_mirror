@@ -50,9 +50,8 @@ jobs:
           
           if [[ -n $(git ls-files --other --exclude-standard --directory) && `git diff --quiet --exit-code playlists/ img/ img2/` ]]; then
             echo "No changes to commit."
-            exit 0
+          else
+            git add playlists/ img/ img2/
+            git commit -m "Automated playlist and icons update"
+            git push
           fi
-
-          git add playlists/ img/ img2/
-          git commit -m "Automated playlist and icons update"
-          git push
