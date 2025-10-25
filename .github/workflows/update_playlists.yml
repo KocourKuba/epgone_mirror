@@ -1,18 +1,18 @@
 name: Mirroring Playlists
 
 on:
-  
+
   workflow_dispatch:
 
   schedule:
-    
+
     - cron: '0 0 */3 * *'
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    
-    
+
+
     permissions:
       contents: write
 
@@ -38,7 +38,7 @@ jobs:
           fi
 
       - name: Run playlist processing script
-        
+
         run: python mirror_playlists.py
         env:
           GITHUB_REPOSITORY: ${{ github.repository }}
@@ -47,12 +47,16 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          if [[ -n $(git ls-files --other --exclude-standard --directory) && `git diff --quiet --exit-code playlists/ img/ img2/` ]]; then
-            echo "No changes to commit."
-            return 0
-          fi
 
-          git add playlists/ img/ img2/
-          git commit -m "Automated playlist and icons update"
-          git push
+          new=$(git ls-files --other --exclude-standard --directory --no-empty-directory)
+          git diff --quiet --exit-code playlists/ img/ img2/
+          changes=$?
+
+          if [[ $changes -eq 0 && -z $new ]]; then
+            echo "No changes to commit"
+          else
+            echo "Push changes"
+            git add playlists/ img/ img2/
+            git commit -m "Automated playlist and icons update"
+            git push
+          fi
