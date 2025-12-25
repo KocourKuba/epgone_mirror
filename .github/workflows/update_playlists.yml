@@ -48,17 +48,18 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          new=$(git ls-files --other --exclude-standard --directory --no-empty-directory)
-          git diff --quiet --exit-code playlists/ img/ img2/
-          changes=$?
-          echo "Changes: $changes"
-          echo "New: $new"
-          
-          if [[ $changes -eq 0 && -z $new ]]; then
-            echo "No changes to commit"
+          git add playlists/ img/ img2/
+
+          # Only attempt to commit if there are staged changes
+          if ! git diff --cached --quiet; then
+            echo "Push changes" >> $GITHUB_OUTPUT
+            git commit -m "Automated playlist and icons update" || true
+            git push || true
           else
-            echo "Push changes"
-            git add playlists/ img/ img2/
-            git commit -m "Automated playlist and icons update"
-            git push
+            echo "Nothing staged to commit"
           fi
+          #show the $GITHUB_OUTPUT file for debugging
+          echo "==GITHUB_OUTPUT file contents=="
+          cat "$GITHUB_OUTPUT" || true
+          echo "==end GITHUB_OUTPUT=="
+          exit 0
