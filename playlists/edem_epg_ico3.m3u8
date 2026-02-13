@@ -65,7 +65,7 @@ http://localhost/iptv/00000000000000/19222/index.m3u8
 http://localhost/iptv/00000000000000/520/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="649" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/649.png" tvg-rec="3",ТВЦ orig
 http://localhost/iptv/00000000000000/9095/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="649" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/649.png" tvg-rec="3",ТВЦ +2
+#EXTINF:0 group-title="Общие" tvg-id="2038" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2038.png" tvg-rec="3",ТВЦ +2
 http://localhost/iptv/00000000000000/716/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="3037" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3037.png" tvg-rec="0",ТВЦ +4
 http://localhost/iptv/00000000000000/6027/index.m3u8
@@ -2497,11 +2497,11 @@ http://localhost/iptv/00000000000000/9063/index.m3u8
 http://localhost/iptv/00000000000000/156/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="740" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/740.png" tvg-rec="3",Карусель orig
 http://localhost/iptv/00000000000000/9186/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="740" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/740.png" tvg-rec="3",Карусель +3
+#EXTINF:0 group-title="Детские" tvg-id="7984" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7984.png" tvg-rec="3",Карусель +3
 http://localhost/iptv/00000000000000/740/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="740" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/740.png" tvg-rec="0",Карусель +0 (Элиста)
 http://localhost/iptv/00000000000000/15453/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-rec="0",Карусель +3 (Омск)
+#EXTINF:0 group-title="Детские" tvg-id="7984" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7984.png" tvg-rec="0",Карусель +3 (Омск)
 http://localhost/iptv/00000000000000/15436/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="1107" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/1107.png" tvg-rec="0",Карусель +7
 http://localhost/iptv/00000000000000/15442/index.m3u8
@@ -3017,7 +3017,7 @@ http://localhost/iptv/00000000000000/19247/index.m3u8
 http://localhost/iptv/00000000000000/19255/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="6695" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6695.png" tvg-rec="0",Quadro 4K
 http://localhost/iptv/00000000000000/19262/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="11512" tvg-rec="0",CHD-TV Rock HD
+#EXTINF:0 group-title="Музыка" tvg-id="11512" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11512.png" tvg-rec="0",CHD-TV Rock HD
 http://localhost/iptv/00000000000000/19394/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="7153" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7153.png" tvg-rec="0",Citrus Live HD
 http://localhost/iptv/00000000000000/19436/index.m3u8
@@ -3555,6 +3555,8 @@ http://localhost/iptv/00000000000000/19359/index.m3u8
 http://localhost/iptv/00000000000000/19360/index.m3u8
 #EXTINF:0 group-title="Региональные" tvg-id="6675" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6675.png" tvg-rec="0",Первый Тульский HD
 http://localhost/iptv/00000000000000/19362/index.m3u8
+#EXTINF:0 group-title="Региональные" tvg-id="11603" tvg-rec="0",Олимпиада 2026 UHD 4
+http://localhost/iptv/00000000000000/19374/index.m3u8
 #EXTINF:0 group-title="Региональные" tvg-id="6776" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6776.png" tvg-rec="0",Эхо 24 (Новоуральск)
 http://localhost/iptv/00000000000000/19375/index.m3u8
 #EXTINF:0 group-title="Региональные" tvg-id="6781" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6781.png" tvg-rec="0",Туапсе 24 HD
@@ -3605,7 +3607,7 @@ http://localhost/iptv/00000000000000/2116/index.m3u8
 http://localhost/iptv/00000000000000/983/index.m3u8
 #EXTINF:0 group-title="Религиозные" tvg-id="2141" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2141.png" tvg-rec="3",СПАС orig
 http://localhost/iptv/00000000000000/9111/index.m3u8
-#EXTINF:0 group-title="Религиозные" tvg-id="93253" tvg-rec="0",СПАС +7 (Владивосток)
+#EXTINF:0 group-title="Религиозные" tvg-id="93253" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/93253.png" tvg-rec="0",СПАС +7 (Владивосток)
 http://localhost/iptv/00000000000000/15344/index.m3u8
 #EXTINF:0 group-title="Религиозные" tvg-id="2448" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2448.png" tvg-rec="7",Союз
 http://localhost/iptv/00000000000000/2016/index.m3u8
@@ -3811,6 +3813,8 @@ http://localhost/iptv/00000000000000/2171/index.m3u8
 http://localhost/iptv/00000000000000/2186/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="6773" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6773.png" tvg-rec="0",НТВ Беларусь BY
 http://localhost/iptv/00000000000000/19371/index.m3u8
+#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="11602" tvg-rec="0",Олимпиада 2026 UHD 3
+http://localhost/iptv/00000000000000/19373/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2170" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2170.png" tvg-rec="0",Беларусь 24 HD
 http://localhost/iptv/00000000000000/14011/index.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2569" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2569.png" tvg-rec="3",Qazaqstan KZ
