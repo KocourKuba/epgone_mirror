@@ -581,7 +581,7 @@ http://localhost/iptv/00000000000000/525/index.m3u8
 http://localhost/iptv/00000000000000/9130/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2773" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2773.png" tvg-rec="3",День Победы HD
 http://localhost/iptv/00000000000000/5054/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2447" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2447.png" tvg-rec="3",Победа HD
+#EXTINF:0 group-title="Кино" tvg-id="11607" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11607.png" tvg-rec="3",Дума ТВ
 http://localhost/iptv/00000000000000/5052/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2447" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2447.png" tvg-rec="7",Победа
 http://localhost/iptv/00000000000000/2003/index.m3u8
@@ -3555,7 +3555,7 @@ http://localhost/iptv/00000000000000/19359/index.m3u8
 http://localhost/iptv/00000000000000/19360/index.m3u8
 #EXTINF:0 group-title="Региональные" tvg-id="6675" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6675.png" tvg-rec="0",Первый Тульский HD
 http://localhost/iptv/00000000000000/19362/index.m3u8
-#EXTINF:0 group-title="Региональные" tvg-id="11603" tvg-rec="0",Олимпиада 2026 UHD 4
+#EXTINF:0 group-title="Региональные" tvg-id="11603" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11603.png" tvg-rec="0",Олимпиада 2026 UHD 4
 http://localhost/iptv/00000000000000/19374/index.m3u8
 #EXTINF:0 group-title="Региональные" tvg-id="6776" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6776.png" tvg-rec="0",Эхо 24 (Новоуральск)
 http://localhost/iptv/00000000000000/19375/index.m3u8
@@ -3813,7 +3813,7 @@ http://localhost/iptv/00000000000000/2171/index.m3u8
 http://localhost/iptv/00000000000000/2186/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="6773" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6773.png" tvg-rec="0",НТВ Беларусь BY
 http://localhost/iptv/00000000000000/19371/index.m3u8
-#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="11602" tvg-rec="0",Олимпиада 2026 UHD 3
+#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="11602" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11602.png" tvg-rec="0",Олимпиада 2026 UHD 3
 http://localhost/iptv/00000000000000/19373/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2170" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2170.png" tvg-rec="0",Беларусь 24 HD
 http://localhost/iptv/00000000000000/14011/index.m3u8
@@ -4679,8 +4679,6 @@ http://localhost/iptv/00000000000000/20019/index.m3u8
 http://localhost/iptv/00000000000000/20020/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="431" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/431.png" tvg-rec="0",Shot TV HD
 http://localhost/iptv/00000000000000/20022/index.m3u8
-#EXTINF:0 group-title="Германия | Germany" tvg-id="3792" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3792.png" tvg-rec="0",FightBox HD
-http://localhost/iptv/00000000000000/20027/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="2053" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2053.png" tvg-rec="0",Extreme Sports HD
 http://localhost/iptv/00000000000000/20028/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="681" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/681.png" tvg-rec="0",Europa Plus TV HD
@@ -5965,7 +5963,7 @@ http://localhost/iptv/00000000000000/6535/index.m3u8
 http://localhost/iptv/00000000000000/6537/index.m3u8
 #EXTINF:0 group-title="Канада | Canada" tvg-id="3641" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3641.png" tvg-rec="0",CNN HD CA
 http://localhost/iptv/00000000000000/6538/index.m3u8
-#EXTINF:0 group-title="Австралия | Australia" tvg-id="11026" tvg-rec="0",Sky 1 AU
+#EXTINF:0 group-title="Австралия | Australia" tvg-id="11026" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11026.png" tvg-rec="0",Sky 1 AU
 http://localhost/iptv/00000000000000/6122/index.m3u8
 #EXTINF:0 group-title="Австралия | Australia" tvg-id="2976" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2976.png" tvg-rec="0",ABC News AU
 http://localhost/iptv/00000000000000/6120/index.m3u8
