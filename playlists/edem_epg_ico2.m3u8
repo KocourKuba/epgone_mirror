@@ -1,4 +1,12 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/146.png" tvg-rec="0",Первый канал UHD
+http://localhost/iptv/00000000000000/19241/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="162" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/162.png" tvg-rec="0",НТВ UHD
+http://localhost/iptv/00000000000000/19405/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="18" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/18.png" tvg-rec="0",РЕН UHD
+http://localhost/iptv/00000000000000/19404/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="711" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/711.png" tvg-rec="0",Россия 1 UHD
+http://localhost/iptv/00000000000000/19242/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/983.png" tvg-rec="7",Первый канал FHD
 http://localhost/iptv/00000000000000/2402/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="1000" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/1000.png" tvg-rec="0",ОТР HD
@@ -69,6 +77,8 @@ http://localhost/iptv/00000000000000/6040/index.m3u8
 http://localhost/iptv/00000000000000/6054/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="726" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/726.png" tvg-rec="0",Мир HD
 http://localhost/iptv/00000000000000/15119/index.m3u8
+#EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/353.png" tvg-rec="0",ТНТ UHD
+http://localhost/iptv/00000000000000/19238/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/1767.png" tvg-rec="3",ТНТ FHD
 http://localhost/iptv/00000000000000/2417/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="353" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/1767.png" tvg-rec="7",ТНТ HD
@@ -2065,16 +2075,12 @@ http://localhost/iptv/00000000000000/31929/index.m3u8
 http://localhost/iptv/00000000000000/31931/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="11600" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11600.png" tvg-rec="0",Venera.TV Советская классика 4K
 http://localhost/iptv/00000000000000/30151/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="11604" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11604.png" tvg-rec="0",Олимпиада 2026 UHD 1
+#EXTINF:0 group-title="Спорт" tvg-id="9325" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9325.png" tvg-rec="0",Окко Футбол UHD
 http://localhost/iptv/00000000000000/19430/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="11605" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11605.png" tvg-rec="0",Олимпиада 2026 UHD 2
-http://localhost/iptv/00000000000000/19431/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="11602" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11602.png" tvg-rec="0",Олимпиада 2026 UHD 3
-http://localhost/iptv/00000000000000/19373/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="11603" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11603.png" tvg-rec="0",Олимпиада 2026 UHD 4
-http://localhost/iptv/00000000000000/19374/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="11606" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11606.png" tvg-rec="0",Олимпиада 2026 UHD 5
+#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2052.png" tvg-rec="0",Eurosport 1 UHD
 http://localhost/iptv/00000000000000/19432/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="4313" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4313.png" tvg-rec="0",Eurosport 2 UHD
+http://localhost/iptv/00000000000000/19431/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="9648" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9648.png" tvg-rec="0",Megogo Спорт HD
 http://localhost/iptv/00000000000000/31612/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="9868" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9868.png" tvg-rec="0",Megogo Футбол 4 HD

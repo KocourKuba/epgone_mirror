@@ -1,8 +1,16 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
-#EXTINF:0 group-title="новости" tvg-id="9051" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9051.png" tvg-rec="3",Sky Sports News HD 50 UK
-http://localhost/iptv/00000000000000/9314/index.m3u8
+#EXTINF:0 group-title="новости" tvg-id="146" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/146.png" tvg-rec="0",Первый канал UHD
+http://localhost/iptv/00000000000000/19241/index.m3u8
+#EXTINF:0 group-title="новости" tvg-id="711" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/711.png" tvg-rec="0",Россия 1 UHD
+http://localhost/iptv/00000000000000/19242/index.m3u8
+#EXTINF:0 group-title="новости" tvg-id="162" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/162.png" tvg-rec="0",НТВ UHD
+http://localhost/iptv/00000000000000/19405/index.m3u8
+#EXTINF:0 group-title="новости" tvg-id="18" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/18.png" tvg-rec="0",РЕН UHD
+http://localhost/iptv/00000000000000/19404/index.m3u8
 #EXTINF:0 group-title="новости" tvg-id="9052" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9052.png" tvg-rec="0",Экоспаскоми (Коми)
 http://localhost/iptv/00000000000000/17018/index.m3u8
+#EXTINF:0 group-title="новости" tvg-id="9051" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9051.png" tvg-rec="3",Sky Sports News HD 50 UK
+http://localhost/iptv/00000000000000/9314/index.m3u8
 #EXTINF:0 group-title="новости" tvg-id="2032" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2032.png" tvg-rec="0",Крик ТВ HD
 http://localhost/iptv/00000000000000/15012/index.m3u8
 #EXTINF:0 group-title="новости" tvg-id="743" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/743.png" tvg-rec="0",РБК HD 50
@@ -1899,6 +1907,8 @@ http://localhost/iptv/00000000000000/30195/index.m3u8
 http://localhost/iptv/00000000000000/30196/index.m3u8
 #EXTINF:0 group-title="детские" tvg-id="11596" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11596.png" tvg-rec="0",Venera.TV 101 долматинец
 http://localhost/iptv/00000000000000/30198/index.m3u8
+#EXTINF:0 group-title="развлекательные" tvg-id="353" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/353.png" tvg-rec="0",ТНТ UHD
+http://localhost/iptv/00000000000000/19238/index.m3u8
 #EXTINF:0 group-title="развлекательные" tvg-id="9054" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9054.png" tvg-rec="3",Epic HD
 http://localhost/iptv/00000000000000/2054/index.m3u8
 #EXTINF:0 group-title="развлекательные" tvg-id="9232" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9232.png" tvg-rec="0",VF Маски Шоу
@@ -2017,10 +2027,6 @@ http://localhost/iptv/00000000000000/31938/index.m3u8
 http://localhost/iptv/00000000000000/31939/index.m3u8
 #EXTINF:0 group-title="развлекательные" tvg-id="11375" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11375.png" tvg-rec="0",HOT Senior HD IL
 http://localhost/iptv/00000000000000/31940/index.m3u8
-#EXTINF:0 group-title="спорт" tvg-id="11602" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11602.png" tvg-rec="0",Олимпиада 2026 UHD 3
-http://localhost/iptv/00000000000000/19373/index.m3u8
-#EXTINF:0 group-title="спорт" tvg-id="11603" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11603.png" tvg-rec="0",Олимпиада 2026 UHD 4
-http://localhost/iptv/00000000000000/19374/index.m3u8
 #EXTINF:0 group-title="спорт" tvg-id="9400" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9400.png" tvg-rec="0",Sky Sports Tennis HD 50 UK
 http://localhost/iptv/00000000000000/6546/index.m3u8
 #EXTINF:0 group-title="спорт" tvg-id="9237" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9237.png" tvg-rec="0",Tring Sport 1 HD AL
@@ -2035,11 +2041,11 @@ http://localhost/iptv/00000000000000/31568/index.m3u8
 http://localhost/iptv/00000000000000/31569/index.m3u8
 #EXTINF:0 group-title="спорт" tvg-id="9243" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9243.png" tvg-rec="0",Nova Sport 3 HD CZ
 http://localhost/iptv/00000000000000/31570/index.m3u8
-#EXTINF:0 group-title="спорт" tvg-id="11604" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11604.png" tvg-rec="0",Олимпиада 2026 UHD 1
+#EXTINF:0 group-title="спорт" tvg-id="9325" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9325.png" tvg-rec="0",Окко Футбол UHD
 http://localhost/iptv/00000000000000/19430/index.m3u8
-#EXTINF:0 group-title="спорт" tvg-id="11605" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11605.png" tvg-rec="0",Олимпиада 2026 UHD 2
+#EXTINF:0 group-title="спорт" tvg-id="4313" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4313.png" tvg-rec="0",Eurosport 2 UHD
 http://localhost/iptv/00000000000000/19431/index.m3u8
-#EXTINF:0 group-title="спорт" tvg-id="11606" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11606.png" tvg-rec="0",Олимпиада 2026 UHD 5
+#EXTINF:0 group-title="спорт" tvg-id="2052" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2052.png" tvg-rec="0",Eurosport 1 UHD
 http://localhost/iptv/00000000000000/19432/index.m3u8
 #EXTINF:0 group-title="спорт" tvg-id="9244" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9244.png" tvg-rec="0",Nova Sport 4 HD CZ
 http://localhost/iptv/00000000000000/31571/index.m3u8

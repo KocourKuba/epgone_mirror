@@ -3555,7 +3555,7 @@ http://localhost/iptv/00000000000000/19359/index.m3u8
 http://localhost/iptv/00000000000000/19360/index.m3u8
 #EXTINF:0 group-title="Региональные" tvg-id="6675" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6675.png" tvg-rec="0",Первый Тульский HD
 http://localhost/iptv/00000000000000/19362/index.m3u8
-#EXTINF:0 group-title="Региональные" tvg-id="11603" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11603.png" tvg-rec="0",Олимпиада 2026 UHD 4
+#EXTINF:0 group-title="Региональные" tvg-rec="0",Олимпиада 2026 UHD 4
 http://localhost/iptv/00000000000000/19374/index.m3u8
 #EXTINF:0 group-title="Региональные" tvg-id="6776" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6776.png" tvg-rec="0",Эхо 24 (Новоуральск)
 http://localhost/iptv/00000000000000/19375/index.m3u8
@@ -3813,7 +3813,7 @@ http://localhost/iptv/00000000000000/2171/index.m3u8
 http://localhost/iptv/00000000000000/2186/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="6773" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6773.png" tvg-rec="0",НТВ Беларусь BY
 http://localhost/iptv/00000000000000/19371/index.m3u8
-#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="11602" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11602.png" tvg-rec="0",Олимпиада 2026 UHD 3
+#EXTINF:0 group-title="Беларусь | Беларускія" tvg-rec="0",Олимпиада 2026 UHD 3
 http://localhost/iptv/00000000000000/19373/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2170" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2170.png" tvg-rec="0",Беларусь 24 HD
 http://localhost/iptv/00000000000000/14011/index.m3u8
