@@ -73,7 +73,7 @@ http://localhost/iptv/00000000000000/6027/index.m3u8
 http://localhost/iptv/00000000000000/6041/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="3039" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3039.png" tvg-rec="0",ТВ Центр +8
 http://localhost/iptv/00000000000000/6056/index.m3u8
-#EXTINF:0 group-title="Общие" tvg-id="5691" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/5691.png" tvg-rec="0",ТВ Центр International
+#EXTINF:0 group-title="Общие" tvg-id="649" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/649.png" tvg-rec="0",ТВ Центр International
 http://localhost/iptv/00000000000000/15229/index.m3u8
 #EXTINF:0 group-title="Общие" tvg-id="427" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/427.png" tvg-rec="7",Пятый канал
 http://localhost/iptv/00000000000000/112/index.m3u8
@@ -537,8 +537,6 @@ http://localhost/iptv/00000000000000/557/index.m3u8
 http://localhost/iptv/00000000000000/9236/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2229" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2229.png" tvg-rec="3",Epic Drama HD
 http://localhost/iptv/00000000000000/1048/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="2181" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2181.png" tvg-rec="3",FilmBox+ One
-http://localhost/iptv/00000000000000/1071/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="774" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/774.png" tvg-rec="7",FlixSnip HD
 http://localhost/iptv/00000000000000/10060/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="774" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/774.png" tvg-rec="3",FlixSnip orig
@@ -605,7 +603,7 @@ http://localhost/iptv/00000000000000/9153/index.m3u8
 http://localhost/iptv/00000000000000/19249/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="6241" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6241.png" tvg-rec="0",Start Air HD
 http://localhost/iptv/00000000000000/18036/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="6240" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6240.png" tvg-rec="0",Start World HD
+#EXTINF:0 group-title="Кино" tvg-id="6240" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6240.png" tvg-rec="0",Start World
 http://localhost/iptv/00000000000000/19248/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2041" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2041.png" tvg-rec="7",НТВ Хит
 http://localhost/iptv/00000000000000/741/index.m3u8
@@ -641,9 +639,9 @@ http://localhost/iptv/00000000000000/9224/index.m3u8
 http://localhost/iptv/00000000000000/2131/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2174" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2174.png" tvg-rec="3",Дорама orig
 http://localhost/iptv/00000000000000/9239/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="1395" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/1395.png" tvg-rec="3",Bollywood HD
+#EXTINF:0 group-title="Кино" tvg-id="1395" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/1395.png" tvg-rec="3",BollywooD HD
 http://localhost/iptv/00000000000000/239/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="1395" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/1395.png" tvg-rec="3",Bollywood HD orig
+#EXTINF:0 group-title="Кино" tvg-id="1395" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/1395.png" tvg-rec="3",BollywooD HD orig
 http://localhost/iptv/00000000000000/9225/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="798" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/798.png" tvg-rec="7",Индийское Кино
 http://localhost/iptv/00000000000000/146/index.m3u8
@@ -1521,8 +1519,6 @@ http://localhost/iptv/00000000000000/15183/index.m3u8
 http://localhost/iptv/00000000000000/5068/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="6860" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6860.png" tvg-rec="0",Setanta Sports+ HD UA orig
 http://localhost/iptv/00000000000000/15184/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="6861" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6861.png" tvg-rec="0",Setanta Baltic 1 HD
-http://localhost/iptv/00000000000000/20081/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="7244" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7244.png" tvg-rec="0",Setanta Moldova FHD
 http://localhost/iptv/00000000000000/20074/index.m3u8
 #EXTINF:0 group-title="Спорт" tvg-id="9384" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9384.png" tvg-rec="0",Окко Event 1
@@ -2013,8 +2009,6 @@ http://localhost/iptv/00000000000000/210/index.m3u8
 http://localhost/iptv/00000000000000/9280/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="2280" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2280.png" tvg-rec="7",RTG TV
 http://localhost/iptv/00000000000000/841/index.m3u8
-#EXTINF:0 group-title="Познавательные" tvg-id="2295" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2295.png" tvg-rec="0",RT Documentary HD
-http://localhost/iptv/00000000000000/14157/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="415" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/415.png" tvg-rec="0",Точка.РФ HD
 http://localhost/iptv/00000000000000/19251/index.m3u8
 #EXTINF:0 group-title="Познавательные" tvg-id="415" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/415.png" tvg-rec="7",Точка.РФ FHD
@@ -2565,8 +2559,6 @@ http://localhost/iptv/00000000000000/9192/index.m3u8
 http://localhost/iptv/00000000000000/537/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="410" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/410.png" tvg-rec="3",Da Vinci orig
 http://localhost/iptv/00000000000000/1033/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="2223" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2223.png" tvg-rec="3",Da Vinci FHD UA
-http://localhost/iptv/00000000000000/1034/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="4728" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4728.png" tvg-rec="7",CineMan Cartoons 90
 http://localhost/iptv/00000000000000/11001/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="4729" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4729.png" tvg-rec="7",CineMan Cartoons Short
@@ -2593,11 +2585,11 @@ http://localhost/iptv/00000000000000/14163/index.m3u8
 http://localhost/iptv/00000000000000/17007/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="5996" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/5996.png" tvg-rec="0",VF Новогодние мультфильмы
 http://localhost/iptv/00000000000000/15523/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="4756" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4756.png" tvg-rec="7",BCU Kids HD
+#EXTINF:0 group-title="Детские" tvg-id="4756" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4756.png" tvg-rec="7",BCU Kids HDR
 http://localhost/iptv/00000000000000/11035/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="4757" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4757.png" tvg-rec="7",BCU Kids+ HD
 http://localhost/iptv/00000000000000/11036/index.m3u8
-#EXTINF:0 group-title="Детские" tvg-id="4746" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4746.png" tvg-rec="7",BCU Multserial HD
+#EXTINF:0 group-title="Детские" tvg-id="4746" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4746.png" tvg-rec="7",BCU Мультсериал HD
 http://localhost/iptv/00000000000000/11025/index.m3u8
 #EXTINF:0 group-title="Детские" tvg-id="6848" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6848.png" tvg-rec="0",BCU Little HD
 http://localhost/iptv/00000000000000/19425/index.m3u8
@@ -2795,12 +2787,8 @@ http://localhost/iptv/00000000000000/2142/index.m3u8
 http://localhost/iptv/00000000000000/9165/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="801" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/801.png" tvg-rec="7",Mezzo Live HD
 http://localhost/iptv/00000000000000/208/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="11722" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11722.png" tvg-rec="3",Fight Club
-http://localhost/iptv/00000000000000/9170/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="575" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/575.png" tvg-rec="7",Mezzo
 http://localhost/iptv/00000000000000/707/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="4672" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4672.png" tvg-rec="7",4Fun TV PL
-http://localhost/iptv/00000000000000/10069/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="4673" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4673.png" tvg-rec="7",Deejay TV HD IT
 http://localhost/iptv/00000000000000/10070/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="7573" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7573.png" tvg-rec="7",VF Легенды Ретро ФМ
@@ -2827,7 +2815,7 @@ http://localhost/iptv/00000000000000/14143/index.m3u8
 http://localhost/iptv/00000000000000/14145/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="5368" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/5368.png" tvg-rec="0",Music Box Gold
 http://localhost/iptv/00000000000000/14149/index.m3u8
-#EXTINF:0 group-title="Музыка" tvg-id="5369" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/5369.png" tvg-rec="0",Страна FM HD
+#EXTINF:0 group-title="Музыка" tvg-id="5369" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/5369.png" tvg-rec="0",Страна ТВ HD
 http://localhost/iptv/00000000000000/14152/index.m3u8
 #EXTINF:0 group-title="Музыка" tvg-id="5290" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/5290.png" tvg-rec="0",Z!Music HD
 http://localhost/iptv/00000000000000/14138/index.m3u8
@@ -3601,7 +3589,7 @@ http://localhost/iptv/00000000000000/6322/index.m3u8
 http://localhost/iptv/00000000000000/991/index.m3u8
 #EXTINF:0 group-title="Украина | Українські" tvg-id="2181" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2181.png" tvg-rec="0",FilmBox+ One UA
 http://localhost/iptv/00000000000000/15266/index.m3u8
-#EXTINF:0 group-title="Украина | Українські" tvg-id="2182" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2182.png" tvg-rec="0",FilmBox+ Festival
+#EXTINF:0 group-title="Украина | Українські" tvg-id="2182" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2182.png" tvg-rec="0",FilmBox+ Festival orig
 http://localhost/iptv/00000000000000/15265/index.m3u8
 #EXTINF:0 group-title="Украина | Українські" tvg-id="2102" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/5611.png" tvg-rec="0",Enter-фільм HD UA
 http://localhost/iptv/00000000000000/15273/index.m3u8
@@ -3681,23 +3669,23 @@ http://localhost/iptv/00000000000000/6332/index.m3u8
 http://localhost/iptv/00000000000000/6333/index.m3u8
 #EXTINF:0 group-title="Украина | Українські" tvg-id="2087" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2087.png" tvg-rec="3",Надiя ТВ UA
 http://localhost/iptv/00000000000000/956/index.m3u8
-#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2538" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2538.png" tvg-rec="3",Беларусь 1 HD
+#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2538" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2538.png" tvg-rec="3",Беларусь 1 HD BY
 http://localhost/iptv/00000000000000/2178/index.m3u8
-#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2538" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2538.png" tvg-rec="3",Беларусь 1
+#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2538" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2538.png" tvg-rec="3",Беларусь 1 BY
 http://localhost/iptv/00000000000000/2170/index.m3u8
-#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2539" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2539.png" tvg-rec="3",Беларусь 2 HD
+#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2539" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2539.png" tvg-rec="3",Беларусь 2 HD BY
 http://localhost/iptv/00000000000000/2179/index.m3u8
-#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2539" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2539.png" tvg-rec="3",Беларусь 2
+#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2539" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2539.png" tvg-rec="3",Беларусь 2 BY
 http://localhost/iptv/00000000000000/2173/index.m3u8
-#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2540" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2540.png" tvg-rec="3",Беларусь 3 HD
+#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2540" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2540.png" tvg-rec="3",Беларусь 3 HD BY
 http://localhost/iptv/00000000000000/2180/index.m3u8
-#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2540" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2540.png" tvg-rec="3",Беларусь 3
+#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2540" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2540.png" tvg-rec="3",Беларусь 3 BY
 http://localhost/iptv/00000000000000/2174/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2541" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2541.png" tvg-rec="3",Беларусь 5 HD BY
 http://localhost/iptv/00000000000000/2177/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2541" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2541.png" tvg-rec="3",Беларусь 5 BY
 http://localhost/iptv/00000000000000/5060/index.m3u8
-#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2170" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2170.png" tvg-rec="3",Беларусь 24
+#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2170" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2170.png" tvg-rec="3",Беларусь 24 BY
 http://localhost/iptv/00000000000000/1061/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="4627" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4627.png" tvg-rec="0",Белсат HD
 http://localhost/iptv/00000000000000/10036/index.m3u8
@@ -3709,15 +3697,13 @@ http://localhost/iptv/00000000000000/2184/index.m3u8
 http://localhost/iptv/00000000000000/2172/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2545" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2545.png" tvg-rec="3",ОНТ HD BY
 http://localhost/iptv/00000000000000/2182/index.m3u8
-#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2545" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2545.png" tvg-rec="3",ОНТ BY
-http://localhost/iptv/00000000000000/5061/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2545" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2545.png" tvg-rec="3",ОНТ FHD BY
 http://localhost/iptv/00000000000000/2171/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2550" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2550.png" tvg-rec="3",8 Канал HD BY
 http://localhost/iptv/00000000000000/2186/index.m3u8
 #EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="6773" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6773.png" tvg-rec="0",НТВ Беларусь BY
 http://localhost/iptv/00000000000000/19371/index.m3u8
-#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2170" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2170.png" tvg-rec="0",Беларусь 24 HD
+#EXTINF:0 group-title="Беларусь | Беларускія" tvg-id="2170" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2170.png" tvg-rec="0",Беларусь 24 HD BY
 http://localhost/iptv/00000000000000/14011/index.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2569" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2569.png" tvg-rec="3",Qazaqstan KZ
 http://localhost/iptv/00000000000000/2210/index.m3u8
@@ -3729,7 +3715,7 @@ http://localhost/iptv/00000000000000/2212/index.m3u8
 http://localhost/iptv/00000000000000/2213/index.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2573" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2573.png" tvg-rec="3",Astana TV KZ
 http://localhost/iptv/00000000000000/2214/index.m3u8
-#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="7091" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7091.png" tvg-rec="3",Jibek Joly TV KZ
+#EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2574" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2574.png" tvg-rec="3",TV1 KZ
 http://localhost/iptv/00000000000000/2215/index.m3u8
 #EXTINF:0 group-title="Казахстан | Қазақстан" tvg-id="2639" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2639.png" tvg-rec="3",31 канал KZ
 http://localhost/iptv/00000000000000/2217/index.m3u8
@@ -3895,7 +3881,7 @@ http://localhost/iptv/00000000000000/6968/index.m3u8
 http://localhost/iptv/00000000000000/6969/index.m3u8
 #EXTINF:0 group-title="Румыния | Romania" tvg-id="3714" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3714.png" tvg-rec="3",Nickelodeon RO
 http://localhost/iptv/00000000000000/6972/index.m3u8
-#EXTINF:0 group-title="Румыния | Romania" tvg-id="3715" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3715.png" tvg-rec="3",ZU TV RO
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="3715" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3715.png" tvg-rec="3",Chefi.ro RO
 http://localhost/iptv/00000000000000/6973/index.m3u8
 #EXTINF:0 group-title="Румыния | Romania" tvg-id="3716" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3716.png" tvg-rec="3",Cartoonito RO
 http://localhost/iptv/00000000000000/6974/index.m3u8
@@ -3983,7 +3969,7 @@ http://localhost/iptv/00000000000000/7031/index.m3u8
 http://localhost/iptv/00000000000000/7032/index.m3u8
 #EXTINF:0 group-title="Румыния | Romania" tvg-id="3775" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3775.png" tvg-rec="3",Warner TV RO
 http://localhost/iptv/00000000000000/7033/index.m3u8
-#EXTINF:0 group-title="Румыния | Romania" tvg-id="3715" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3715.png" tvg-rec="3",ZU TV HD RO
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="3715" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3715.png" tvg-rec="3",Chefi.ro HD RO
 http://localhost/iptv/00000000000000/7034/index.m3u8
 #EXTINF:0 group-title="Румыния | Romania" tvg-id="3777" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3777.png" tvg-rec="3",Happy Channel HD RO
 http://localhost/iptv/00000000000000/7035/index.m3u8
@@ -4013,7 +3999,7 @@ http://localhost/iptv/00000000000000/7049/index.m3u8
 http://localhost/iptv/00000000000000/7051/index.m3u8
 #EXTINF:0 group-title="Румыния | Romania" tvg-id="3794" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3794.png" tvg-rec="3",Credo TV RO
 http://localhost/iptv/00000000000000/7052/index.m3u8
-#EXTINF:0 group-title="Румыния | Romania" tvg-id="3796" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3796.png" tvg-rec="3",Bollywood RO
+#EXTINF:0 group-title="Румыния | Romania" tvg-id="3796" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3796.png" tvg-rec="3",BollywooD RO
 http://localhost/iptv/00000000000000/7054/index.m3u8
 #EXTINF:0 group-title="Румыния | Romania" tvg-id="3797" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3797.png" tvg-rec="3",Pro TV International RO
 http://localhost/iptv/00000000000000/7055/index.m3u8
@@ -4117,7 +4103,7 @@ http://localhost/iptv/00000000000000/6407/index.m3u8
 http://localhost/iptv/00000000000000/6410/index.m3u8
 #EXTINF:0 group-title="Латвия | Latvia" tvg-id="3378" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3378.png" tvg-rec="3",TV3 Mini HD LV
 http://localhost/iptv/00000000000000/6414/index.m3u8
-#EXTINF:0 group-title="Латвия | Latvia" tvg-id="3381" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3381.png" tvg-rec="3",Go3 Sport 2 HD LT
+#EXTINF:0 group-title="Латвия | Latvia" tvg-id="3381" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3381.png" tvg-rec="3",Go3 Sport 2 FHD LT
 http://localhost/iptv/00000000000000/6418/index.m3u8
 #EXTINF:0 group-title="Латвия | Latvia" tvg-id="7007" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7007.png" tvg-rec="3",Go3 Sport 3 HD LV
 http://localhost/iptv/00000000000000/6408/index.m3u8
@@ -4197,8 +4183,6 @@ http://localhost/iptv/00000000000000/601/index.m3u8
 http://localhost/iptv/00000000000000/276/index.m3u8
 #EXTINF:0 group-title="Армения | Հայկական" tvg-id="2396" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2396.png" tvg-rec="3",Jan TV AM
 http://localhost/iptv/00000000000000/285/index.m3u8
-#EXTINF:0 group-title="Армения | Հայկական" tvg-id="2062" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2062.png" tvg-rec="3",H2 HD AM
-http://localhost/iptv/00000000000000/603/index.m3u8
 #EXTINF:0 group-title="Армения | Հայկական" tvg-id="2064" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2064.png" tvg-rec="3",Armenia TV HD AM
 http://localhost/iptv/00000000000000/605/index.m3u8
 #EXTINF:0 group-title="Армения | Հայկական" tvg-id="2391" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2391.png" tvg-rec="3",ATV Hay TV HD AM
@@ -4365,7 +4349,7 @@ http://localhost/iptv/00000000000000/2188/index.m3u8
 http://localhost/iptv/00000000000000/2198/index.m3u8
 #EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="2553" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2553.png" tvg-rec="3",Space TV AZ
 http://localhost/iptv/00000000000000/2190/index.m3u8
-#EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="2559" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2559.png" tvg-rec="3",ATV AZ
+#EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="2559" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2559.png" tvg-rec="3",Azad TV AZ
 http://localhost/iptv/00000000000000/2200/index.m3u8
 #EXTINF:0 group-title="Азербайджан | Azərbaycan" tvg-id="2435" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2435.png" tvg-rec="3",Dunya TV AZ
 http://localhost/iptv/00000000000000/2192/index.m3u8
@@ -4395,7 +4379,7 @@ http://localhost/iptv/00000000000000/6111/index.m3u8
 http://localhost/iptv/00000000000000/6090/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="3127" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3127.png" tvg-rec="3",Kabel Eins HD DE
 http://localhost/iptv/00000000000000/6067/index.m3u8
-#EXTINF:0 group-title="Германия | Germany" tvg-id="3116" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3116.png" tvg-rec="3",Toggo DE
+#EXTINF:0 group-title="Германия | Germany" tvg-id="3116" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3116.png" tvg-rec="3",Toggo/RTL Super DE
 http://localhost/iptv/00000000000000/6063/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="3113" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3113.png" tvg-rec="3",RTL HD DE
 http://localhost/iptv/00000000000000/6062/index.m3u8
@@ -4413,16 +4397,10 @@ http://localhost/iptv/00000000000000/6059/index.m3u8
 http://localhost/iptv/00000000000000/6057/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="3071" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3071.png" tvg-rec="3",ProSieben Maxx FHD DE
 http://localhost/iptv/00000000000000/6058/index.m3u8
-#EXTINF:0 group-title="Германия | Germany" tvg-id="2865" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2865.png" tvg-rec="3",Sky Cinema HD DE
-http://localhost/iptv/00000000000000/2484/index.m3u8
-#EXTINF:0 group-title="Германия | Germany" tvg-id="2866" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2866.png" tvg-rec="3",Sky Cinema Highlights HD DE
-http://localhost/iptv/00000000000000/2485/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="2868" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2868.png" tvg-rec="3",Sky Atlantic HD DE
 http://localhost/iptv/00000000000000/2488/index.m3u8
-#EXTINF:0 group-title="Германия | Germany" tvg-id="2869" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2869.png" tvg-rec="3",Sky Cinema Family HD DE
+#EXTINF:0 group-title="Германия | Germany" tvg-id="2869" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2869.png" tvg-rec="3",Sky Cinema Feelgood HD DE
 http://localhost/iptv/00000000000000/2489/index.m3u8
-#EXTINF:0 group-title="Германия | Germany" tvg-id="6445" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6445.png" tvg-rec="3",Sky Cinema Classics HD DE
-http://localhost/iptv/00000000000000/2490/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="2871" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2871.png" tvg-rec="3",Sky Krimi HD DE
 http://localhost/iptv/00000000000000/2491/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="2873" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2873.png" tvg-rec="3",Sky Arts HD DE
@@ -4511,16 +4489,12 @@ http://localhost/iptv/00000000000000/19003/index.m3u8
 http://localhost/iptv/00000000000000/19005/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="6434" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6434.png" tvg-rec="0",Sky Replay HD DE
 http://localhost/iptv/00000000000000/19006/index.m3u8
-#EXTINF:0 group-title="Германия | Germany" tvg-id="2869" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2869.png" tvg-rec="0",Sky Cinema Family FHD DE
-http://localhost/iptv/00000000000000/19008/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="2868" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2868.png" tvg-rec="0",Sky Atlantic FHD DE
 http://localhost/iptv/00000000000000/19009/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="6474" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6474.png" tvg-rec="0",Sky Cinema Action HD DE
 http://localhost/iptv/00000000000000/19098/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="6442" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6442.png" tvg-rec="0",Sky Cinema Premieren HD DE
 http://localhost/iptv/00000000000000/19014/index.m3u8
-#EXTINF:0 group-title="Германия | Germany" tvg-id="6445" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6445.png" tvg-rec="0",Sky Cinema Classics FHD DE
-http://localhost/iptv/00000000000000/19017/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="2871" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2871.png" tvg-rec="0",Sky Krimi FHD DE
 http://localhost/iptv/00000000000000/19019/index.m3u8
 #EXTINF:0 group-title="Германия | Germany" tvg-id="6448" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6448.png" tvg-rec="0",Sky Nature HD DE
@@ -4601,7 +4575,7 @@ http://localhost/iptv/00000000000000/2374/index.m3u8
 http://localhost/iptv/00000000000000/2331/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2700" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2700.png" tvg-rec="3",Channel 98 IL
 http://localhost/iptv/00000000000000/2369/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2673" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2673.png" tvg-rec="3",Kan 11 HD IL
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2673" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2673.png" tvg-rec="3",Channel 11 HD IL
 http://localhost/iptv/00000000000000/2332/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2678" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2678.png" tvg-rec="3",Nick Jr. IL
 http://localhost/iptv/00000000000000/2337/index.m3u8
@@ -4713,8 +4687,6 @@ http://localhost/iptv/00000000000000/12231/index.m3u8
 http://localhost/iptv/00000000000000/12232/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="9049" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9049.png" tvg-rec="0",Channel 24 HD IL
 http://localhost/iptv/00000000000000/12237/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4296" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4296.png" tvg-rec="0",Channel 14 HD IL
-http://localhost/iptv/00000000000000/12239/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2697" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2697.png" tvg-rec="0",Junior IL
 http://localhost/iptv/00000000000000/12240/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="2689" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/325.png" tvg-rec="0",Discovery Channel HD IL
@@ -4753,7 +4725,7 @@ http://localhost/iptv/00000000000000/12262/index.m3u8
 http://localhost/iptv/00000000000000/12264/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4014" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4014.png" tvg-rec="0",History FHD IL
 http://localhost/iptv/00000000000000/12265/index.m3u8
-#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5071" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/5071.png" tvg-rec="0",Bollywood HD IL
+#EXTINF:0 group-title="Израиль | ישראלי" tvg-id="5071" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/5071.png" tvg-rec="0",BollywooD Indian Films IL
 http://localhost/iptv/00000000000000/12267/index.m3u8
 #EXTINF:0 group-title="Израиль | ישראלי" tvg-id="4306" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4306.png" tvg-rec="0",Knesset Channel IL
 http://localhost/iptv/00000000000000/12269/index.m3u8
@@ -4857,7 +4829,7 @@ http://localhost/iptv/00000000000000/7299/index.m3u8
 http://localhost/iptv/00000000000000/7301/index.m3u8
 #EXTINF:0 group-title="Польша | Poland" tvg-id="4502" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4502.png" tvg-rec="0",Canal+ Kuchnia PL
 http://localhost/iptv/00000000000000/7302/index.m3u8
-#EXTINF:0 group-title="Польша | Poland" tvg-id="4549" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4549.png" tvg-rec="0",Polsat Sport 3 HD PL
+#EXTINF:0 group-title="Польша | Poland" tvg-id="4549" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4549.png" tvg-rec="0",Polsat Sport 3 FHD PL
 http://localhost/iptv/00000000000000/7303/index.m3u8
 #EXTINF:0 group-title="Польша | Poland" tvg-id="4550" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4550.png" tvg-rec="0",Polsat Sport Premium 1 HD PL
 http://localhost/iptv/00000000000000/7304/index.m3u8
@@ -4921,7 +4893,7 @@ http://localhost/iptv/00000000000000/2306/index.m3u8
 http://localhost/iptv/00000000000000/2307/index.m3u8
 #EXTINF:0 group-title="Турция | Türk" tvg-id="3979" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3979.png" tvg-rec="3",Haber Turk FHD TR
 http://localhost/iptv/00000000000000/2308/index.m3u8
-#EXTINF:0 group-title="Турция | Türk" tvg-id="9801" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9801.png" tvg-rec="3",NOW HD TR
+#EXTINF:0 group-title="Турция | Türk" tvg-id="9801" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/9801.png" tvg-rec="3",NOW FHD TR
 http://localhost/iptv/00000000000000/2309/index.m3u8
 #EXTINF:0 group-title="Турция | Türk" tvg-id="2668" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2668.png" tvg-rec="3",Beyaz TV HD TR
 http://localhost/iptv/00000000000000/2310/index.m3u8
@@ -5205,8 +5177,6 @@ http://localhost/iptv/00000000000000/2243/index.m3u8
 http://localhost/iptv/00000000000000/2244/index.m3u8
 #EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="2654" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2654.png" tvg-rec="3",O'zbekiston 24 FHD UZ
 http://localhost/iptv/00000000000000/2246/index.m3u8
-#EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="7917" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7917.png" tvg-rec="0",Dasturxon TV UZ
-http://localhost/iptv/00000000000000/20185/index.m3u8
 #EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="2649" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2649.png" tvg-rec="0",Dunyo Bo'ylab HD UZ
 http://localhost/iptv/00000000000000/20186/index.m3u8
 #EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="88013" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/88013.png" tvg-rec="0",Futbol TV UZ
@@ -5217,13 +5187,13 @@ http://localhost/iptv/00000000000000/20190/index.m3u8
 http://localhost/iptv/00000000000000/20191/index.m3u8
 #EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="7924" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7924.png" tvg-rec="0",Mahalla UZ
 http://localhost/iptv/00000000000000/20192/index.m3u8
-#EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="7928" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7928.png" tvg-rec="0",My5 HD UZ
+#EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="7928" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7928.png" tvg-rec="0",Mening Yurtim FHD UZ
 http://localhost/iptv/00000000000000/20193/index.m3u8
 #EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="7926" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7926.png" tvg-rec="0",Milliy TV UZ
 http://localhost/iptv/00000000000000/20194/index.m3u8
 #EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="7926" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7926.png" tvg-rec="0",Milliy TV HD UZ
 http://localhost/iptv/00000000000000/20195/index.m3u8
-#EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="7928" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7928.png" tvg-rec="0",My5 UZ
+#EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="7928" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/7928.png" tvg-rec="0",Mening Yurtim HD UZ
 http://localhost/iptv/00000000000000/20196/index.m3u8
 #EXTINF:0 group-title="Узбекистан | O'zbek" tvg-id="2654" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2654.png" tvg-rec="0",O'zbekiston 24 HD UZ
 http://localhost/iptv/00000000000000/20199/index.m3u8
@@ -5307,7 +5277,7 @@ http://localhost/iptv/00000000000000/2557/index.m3u8
 http://localhost/iptv/00000000000000/842/index.m3u8
 #EXTINF:0 group-title="Европа | Europe" tvg-id="828" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/828.png" tvg-rec="3",BBC World News UK
 http://localhost/iptv/00000000000000/545/index.m3u8
-#EXTINF:0 group-title="Европа | Europe" tvg-id="2295" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2295.png" tvg-rec="3",RT Documentary
+#EXTINF:0 group-title="Европа | Europe" tvg-id="2295" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2295.png" tvg-rec="3",RT Док
 http://localhost/iptv/00000000000000/839/index.m3u8
 #EXTINF:0 group-title="Европа | Europe" tvg-id="2269" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2269.png" tvg-rec="3",RT News
 http://localhost/iptv/00000000000000/840/index.m3u8
@@ -5861,16 +5831,12 @@ http://localhost/iptv/00000000000000/6580/index.m3u8
 http://localhost/iptv/00000000000000/6581/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3401" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3401.png" tvg-rec="0",Food Food IN
 http://localhost/iptv/00000000000000/6583/index.m3u8
-#EXTINF:0 group-title="Индия | India" tvg-id="3404" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3404.png" tvg-rec="0",Colors Rishtey IN
-http://localhost/iptv/00000000000000/6586/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3407" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3407.png" tvg-rec="0",Zing IN
 http://localhost/iptv/00000000000000/6589/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3409" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3409.png" tvg-rec="0",Zee News IN
 http://localhost/iptv/00000000000000/6591/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3410" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3410.png" tvg-rec="0",Colors Cineplex IN
 http://localhost/iptv/00000000000000/6592/index.m3u8
-#EXTINF:0 group-title="Индия | India" tvg-id="3414" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3414.png" tvg-rec="0",Zee Classic IN
-http://localhost/iptv/00000000000000/6596/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3415" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3415.png" tvg-rec="0",Zee Anmol IN
 http://localhost/iptv/00000000000000/6597/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3417" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3417.png" tvg-rec="0",Zee Business IN
@@ -5905,32 +5871,20 @@ http://localhost/iptv/00000000000000/6643/index.m3u8
 http://localhost/iptv/00000000000000/6648/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3466" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3466.png" tvg-rec="0",Pitaara IN
 http://localhost/iptv/00000000000000/6650/index.m3u8
-#EXTINF:0 group-title="Индия | India" tvg-id="3475" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3475.png" tvg-rec="0",Zee Talkies IN
-http://localhost/iptv/00000000000000/6660/index.m3u8
-#EXTINF:0 group-title="Индия | India" tvg-id="3476" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3476.png" tvg-rec="0",News18 Lokmat IN
-http://localhost/iptv/00000000000000/6661/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3484" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3484.png" tvg-rec="0",PTC Punjabi IN
 http://localhost/iptv/00000000000000/6670/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3486" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3486.png" tvg-rec="0",9X Tashan IN
 http://localhost/iptv/00000000000000/6672/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3487" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3487.png" tvg-rec="0",PTC Chak De IN
 http://localhost/iptv/00000000000000/6673/index.m3u8
-#EXTINF:0 group-title="Индия | India" tvg-id="3490" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3490.png" tvg-rec="0",Zee Punjabi IN
-http://localhost/iptv/00000000000000/6676/index.m3u8
-#EXTINF:0 group-title="Индия | India" tvg-id="3496" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3496.png" tvg-rec="0",Sanjha TV IN
-http://localhost/iptv/00000000000000/6682/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3499" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3499.png" tvg-rec="0",Fateh TV IN
 http://localhost/iptv/00000000000000/6685/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3506" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3506.png" tvg-rec="0",SUN TV IN
 http://localhost/iptv/00000000000000/6692/index.m3u8
-#EXTINF:0 group-title="Индия | India" tvg-id="3510" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3510.png" tvg-rec="0",Jaya TV IN
-http://localhost/iptv/00000000000000/6696/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3511" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3511.png" tvg-rec="0",Jaya Max IN
 http://localhost/iptv/00000000000000/6698/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3515" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3515.png" tvg-rec="0",Raj Musix IN
 http://localhost/iptv/00000000000000/6702/index.m3u8
-#EXTINF:0 group-title="Индия | India" tvg-id="3519" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3519.png" tvg-rec="0",News18 Tamil IN
-http://localhost/iptv/00000000000000/6706/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3523" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3523.png" tvg-rec="0",Gemini Movies IN
 http://localhost/iptv/00000000000000/6710/index.m3u8
 #EXTINF:0 group-title="Индия | India" tvg-id="3527" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3527.png" tvg-rec="0",SVBC IN
@@ -6119,8 +6073,6 @@ http://localhost/iptv/00000000000000/2162/index.m3u8
 http://localhost/iptv/00000000000000/5015/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="2775" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2775.png" tvg-rec="3",XXL
 http://localhost/iptv/00000000000000/5009/index.m3u8
-#EXTINF:0 group-title="Взрослые" tvg-id="3140" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/3140.png" tvg-rec="3",Babes TV
-http://localhost/iptv/00000000000000/2161/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="2780" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2780.png" tvg-rec="3",Extasy Platinum 4K
 http://localhost/iptv/00000000000000/5014/index.m3u8
 #EXTINF:0 group-title="Взрослые" tvg-id="2321" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2321.png" tvg-rec="3",Private TV
