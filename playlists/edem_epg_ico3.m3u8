@@ -393,7 +393,7 @@ http://localhost/iptv/00000000000000/9086/index.m3u8
 http://localhost/iptv/00000000000000/914/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2019" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2019.png" tvg-rec="0",Душевное HD orig
 http://localhost/iptv/00000000000000/10042/index.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="6019" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/6019.png" tvg-rec="7",Любимое HD orig
+#EXTINF:0 group-title="Кино" tvg-id="2509" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2509.png" tvg-rec="7",Любимое HD orig
 http://localhost/iptv/00000000000000/915/index.m3u8
 #EXTINF:0 group-title="Кино" tvg-id="2018" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/2018.png" tvg-rec="3",Наше HD
 http://localhost/iptv/00000000000000/9046/index.m3u8
