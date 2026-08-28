@@ -5063,7 +5063,7 @@ http://localhost/iptv/00000000000000/32018/index.m3u8
 http://localhost/iptv/00000000000000/32019/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="4903" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4903.png" tvg-rec="0",Eurosport 2 HD SE
 http://localhost/iptv/00000000000000/32020/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="11841" tvg-rec="0",Eurosport 2 HD DK
+#EXTINF:0 group-title="HD" tvg-id="11841" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11841.png" tvg-rec="0",Eurosport 2 HD DK
 http://localhost/iptv/00000000000000/32021/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="11842" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11842.png" tvg-rec="0",Eurosport 1 HD NO
 http://localhost/iptv/00000000000000/32023/index.m3u8

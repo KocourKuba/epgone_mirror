@@ -5555,7 +5555,7 @@ http://localhost/iptv/00000000000000/7354/index.m3u8
 http://localhost/iptv/00000000000000/7355/index.m3u8
 #EXTINF:0 group-title="Дания | Denmark" tvg-id="4521" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/4521.png" tvg-rec="0",Kanal 4 HD DK
 http://localhost/iptv/00000000000000/7358/index.m3u8
-#EXTINF:0 group-title="Дания | Denmark" tvg-id="11841" tvg-rec="0",Eurosport 2 HD DK
+#EXTINF:0 group-title="Дания | Denmark" tvg-id="11841" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/11841.png" tvg-rec="0",Eurosport 2 HD DK
 http://localhost/iptv/00000000000000/32021/index.m3u8
 #EXTINF:0 group-title="Египет | Egypt" tvg-id="88055" tvg-logo="https://raw.githubusercontent.com/KocourKuba/epgone_mirror/master/img/88055.png" tvg-rec="3",ON Sport 1 HD EG
 http://localhost/iptv/00000000000000/2512/index.m3u8
