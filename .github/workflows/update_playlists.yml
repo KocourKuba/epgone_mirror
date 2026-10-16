@@ -3,6 +3,11 @@ name: Mirroring Playlists
 on:
 
   workflow_dispatch:
+    inputs:
+      update_type:
+        description: 'Type of update'
+        required: false
+        default: 'manual'
 
   schedule:
 
@@ -31,33 +36,28 @@ jobs:
       - name: Determine update mode
         id: mode
         run: |
-          if [[ "${{ github.event_name }}" == "schedule" && "$(date -u +'%H:%M %d')" == "01:00 01" ]]; then
-            echo "commit_message=Auto update (3 day): $(date -u +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-          elif [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ github.event.inputs.update_type }}" == "manual" ]]; then
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" && "${{ github.event.inputs.update_type }}" == "manual" ]]; then
             echo "commit_message=Manual update: $(date -u +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+          else
+            echo "commit_message=Automated playlist and icons update" >> $GITHUB_OUTPUT
           fi
 
       - name: Run playlist processing script
 
         run: python mirror_playlists.py
-        env:
-          GITHUB_REPOSITORY: ${{ github.repository }}
 
       - name: Commit and push changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          echo "==GITHUB_OUTPUT file contents=="
-          git add playlists/ img/ img2/
+          git add -A playlists/ img/ img2/
 
           # Only attempt to commit if there are staged changes
           if ! git diff --cached --quiet; then
             echo "Push changes"
-            git commit -m "Automated playlist and icons update" || true
-            git push || true
+            git commit -m "${{ steps.mode.outputs.commit_message }}"
+            git push
           else
             echo "Nothing staged to commit"
           fi
-          echo "==end GITHUB_OUTPUT=="
-          exit 0
